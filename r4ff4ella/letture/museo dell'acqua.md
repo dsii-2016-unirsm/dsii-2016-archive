@@ -17,10 +17,9 @@ l'esperienza dello scendere per poi risalire dal mondo sottorraneo del vecchio a
 
 
 ###how it works | 
-
-
-
+Il tour del Museo prevede una prima visita al bottino sotterraneo, per poi risalire lungo i tre piani della struttura alla scoperta delle installazioni con cui il visitatore dovrebbe interagire. Infatti queste sono tutte attivabili dal visitatore attraverso sensori di movimento
+Molte delle installazioni sono provviste di sensori di movimento, necessari per la loro attivazione al passare del visitatore; i contenuti visivi sono spesso proiettati (su basi, come nel caso dei libri interattivi, o su plastici) e accompagnati da contenuti audio. L'intera visita è guidata da volontari dell'associazione "la Diana" di Siena.
+Un museo di questo genere, ricco di opere interattive, avrebbe bisogno di molta manutenzione che evidentemente non riceve, infatti quanto pare molte delle installazioni presenti non sono più funzionanti.
 
 ###what if | 
-*
-*
+In un museo che ha come protagonista l'acqua, questa non è materialmente presente: è proiettata, ne è richiamata la suggestione e i rumori, ma non è presente. Mi chiedeo se avere la "materia acqua" fisicamente vicina lungo il percorso del museo possa rendere l'esperienza ulteriormente più immersiva, a patto che tutte le installazioni funzionino.

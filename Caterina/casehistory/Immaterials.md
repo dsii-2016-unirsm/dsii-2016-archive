@@ -25,6 +25,6 @@
 *Un'altra possibile idea di siluppo potrebbe concentrarsi sull'utilizzare strumenti di video mapping/luci proiettate su del fumo, per restituire una visione completa dei dati rilevati, che dovrebbero essere presi in più punti di un'ambiente circoscritto tramite l'uso di vari sensori, per cercare di ottenere un'istallazione che permetta una visualizzazione in tempo reale delle onde emesse dai WiFi.*
 
 ###Similar projects 
-[Progetti ispirati ad Immatirials](http://designresearch.no/news/projects-inspired-immaterials-light-painting-wifi)
+[Progetti ispirati ad Immatirials](http://designresearch.no/news/projects-inspired-immaterials-light-painting-wifi)<br>
 [Frequenze sonore visibili come sidegni luminosi su plexiglass](http://romaeuropa.net/digitalife-2015/frequencies-light-quanta/)
 

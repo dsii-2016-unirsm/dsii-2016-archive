@@ -3,10 +3,10 @@
 ## The flow towards Europe, 2015, Lucify
 
 ### What is
-"The flow towards Europe" è un sistema interattivo di rappresentazione dei dati riguardanti i richiedenti asilo nei paesi europei a partire dal 2012 fino al 2015 e presente sul sito Lucify.com.
+"The flow towards Europe" è un sistema interattivo di rappresentazione dei dati riguardanti i richiedenti asilo nei paesi europei a partire dal 2012 fino al 2015 e presente sul sito Lucify.com (i dati usati sono stati raccolti da UNHCR).
 
 ### What does it mean
-Lucify cerca di aiutare le organizzazioni a capire e comunicare i dati importanti attraverso visualizzazioni interattive e in questo caso tenta di mostrare a chiunque la più grande crisi di rifugiati dalla seconda guerra mondiale che vede come protagonista l'Europa.
+Lucify cerca di aiutare le organizzazioni a conoscere e comunicare dati importanti attraverso visualizzazioni interattive e in questo caso tenta di mostrare a chiunque la più grande crisi di rifugiati dalla seconda guerra mondiale che vede come protagonista l'Europa. Una tale visualizzazione non mostra solo la scala dei numeri, ma racconta anche cosa significano quei numeri.
 
 ### How it works
 Passando il mouse su i vari Stati si può vedere il flusso di persone (ogni puntino presente sulla mappa rappresenta 25 persone) che si spostano da un paese all'altro. Gli stati da cui partono i vari flussi sono colorati di viola e accompagnati da una cifra negativa (rappresentate il numero di persone che lasciano il paese preso in considerazione), mentre gli stati ospitanti assumono un colore verde e presentano una cifra positiva. 

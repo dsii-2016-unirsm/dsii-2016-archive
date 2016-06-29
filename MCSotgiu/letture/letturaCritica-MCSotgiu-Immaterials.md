@@ -1,0 +1,13 @@
+[_Immaterials: Light painting WiFi_, 2011, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen](http://www.nearfield.org/2011/02/wifi-light-painting) 
+## WHAT IS
+_ Immaterials: Light painting WiFi _ è un progetto del 2011 sviluppato da Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen all’interno della Oslo School of Architecture and Design. Ragionando sul tema di **rendere visibile l’invisibile**, i progettisti si sono concentrati sulle reti **WiFi** e hanno trovato un metodo per poterle effettivamente vedere sia la presenza di esse, sia la potenza man mano che ci si avvicina o ci si allontana. Il progetto è sintetizzato in un video che mostra la costruzione degli strumenti utilizzati, i progettisti che li utilizzano e foto del risultato.
+
+## HOW IT WORKS
+I progettisti, basandosi su [esperimenti precedenti ](http://www.nearfield.org/2009/10/immaterials-the-ghost-in-the-field) che volevano rendere visibile la tecnologia RFID, hanno costruito un apposito strumento: un’asta lunga 4 metri sulla quale sono fissate 80 piccole **luci ad intermittenza**. Le luci, considerate un’astrazione del segnale WiFi altrimenti invisibile, si accendono quando rilevano una rete grazie al rilevamento e alla misurazione [RSSI]( https://en.wikipedia.org/wiki/Received_signal_strength_indication) (Received Signal Strength Indicator). Grazie alla tecnica fotografica del **light painting**, che utilizza lunghi tempi di esposizione, è stato possibile ottenere delle foto, poi riassunte nel video finale, scattate spostando l’asta con le luci ad intermittenza ed ottenendo quindi una sorta di muro di luci.
+
+## WHAT DOES IT MEAN
+_Immaterials_ è un progetto che dimostra come soluzioni tecniche semplici ma efficaci, legate alla conoscenza di nozioni teoriche, possano effettivamente rendere visibili dei dati altrimenti fruibili solamente sulla carta. Parla del potere della visualizzazione, del **potere delle immagini**.
+Più nello specifico, il progetto regala una visione dello spazio differente, uno spazio composto non solo da architetture e persone, ma anche da altre nuove reti che quasi mettono a contatto le due cose. Fornisce, inoltre, una visione sulla qualità delle reti WiFi negli **spazi pubblici**. 
+
+## WHAT IF
+Sarebbe interessante cercare una soluzione tecnica che permetta di visualizzare la presenza delle reti non solo attraverso foto e video. Oppure, utilizzando foto e video, dato è grazie alla tecnica del light painting che questo è possibile, vedere questo progetto **proiettato** su un grande edificio o creare una pagina web che, di continuo, mostri il rilevamento delle reti.

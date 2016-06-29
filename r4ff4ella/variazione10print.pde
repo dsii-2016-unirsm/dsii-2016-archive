@@ -1,6 +1,6 @@
 void setup() {
     background(221,0,87);
-    size(960, 400);
+    fullScreen();
     nQuadrati_x = width / DimQuadrato; // numero di quadrati sull'asse orizzontale
     nQuadrati_y = height / DimQuadrato;//numero di quadrati sull'asse verticale
     strokeCap(SQUARE);// estremità linee

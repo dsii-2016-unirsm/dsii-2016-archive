@@ -20,4 +20,4 @@
 
 ###WHAT IF | 
 ####Alternativa 1
-*Essendo i flussi cromaticamente uguali, l'idea di cambiare il colore a seconda della nazione di provenienza potrebbe aiutare ad identificare meglio, nel punto di arrivo, quali sono le popolazioni che più si spostano verso quel territorio, tuttavia ciò potrebbe creare difficoltà  nella lettura complessiva del dato, quindi dovrebbe essere una possibilità, selezionabile eventualmente dall'utente, per una lettura miglire dei dati.*
+*Essendo i flussi cromaticamente uguali, l'idea di cambiare il colore a seconda della nazione di provenienza potrebbe aiutare ad identificare meglio, nel punto di arrivo, quali sono le popolazioni che più si spostano verso quel territorio. Tuttavia ciò potrebbe creare difficoltà nella lettura complessiva del dato, quindi dovrebbe essere un'opzione aggiuntiva, selezionabile eventualmente dall'utente, per una lettura migliore dei dati.*

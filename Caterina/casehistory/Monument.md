@@ -1,6 +1,7 @@
 # Analisi
 
 ##Monument, 2006, Caleb Larsen
+![Monument](http://www.asquare.org/networkresearch/wp-content/uploads/2008/10/monument-bbs.jpg)
 
 ###WHAT IS |
 ####Tipologia 
@@ -23,7 +24,7 @@
 
 ###WHAT IF |
 ####Alternativa 1
-*Il sistema non avrebbe lo stesso effetto significativo se riguardasse le nascite, poichè il suono di una pallina che cade è sicuramente riconducibile ad un evento imprevisto o violento. In caso l'istallazione prendesse a riferimento notizie su nascite o adozioni si dovrebbero utilizzare altre tipologie di oggetti da lasciar cadere o in alternativa utilizzare superfici di un materiale con caratteristiche differenti : più morbido o elastico, vellutato o ammortizzato.*
+*Il sistema, per come è stato concepito, non avrebbe lo stesso significativo se l'argomento dei dati fossero le nascite, poichè il suono di una pallina che cade e rimbalza è sicuramente riconducibile ad un evento imprevisto o violento piuttosto che ad un evento lieto o atteso. In caso l'istallazione prendesse a riferimento notizie su nascite o adozioni si dovrebbero utilizzare altre tipologie di oggetti da lasciar cadere o in alternativa utilizzare superfici di un materiale con caratteristiche differenti : più morbido o elastico, vellutato o ammortizzato.*
 ####Alternativa 2
 *Vista la ciclicità con cui l'istallazione viene "ricaricata", che causa uno svuotamento totale degli eventi del mese precedente, potrebbe essere interessante far si che ogni pallina cadendo lasciasse una macchia o una scia di colore sul pavimento, così che anche nei mesi successivi le uccisioni passate siano ancora visibili? Inoltre se dovessero cadere molte palline la traccia-macchia di inchiostro lasciata sarebbe molto più grande e anche dalle dimensioni sarebbe possibile quantificare visivamente il numero di vittime o la violenza della notizia anche se le palline si spargessero per tutto l'edificio, creando tra l'altro una sorta di "filo di Arianna" fino all'istallazione.*
 

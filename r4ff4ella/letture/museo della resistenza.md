@@ -1,6 +1,6 @@
-# Analisi
-
-## Museo audiovisivo della resistenza
+###Lettura critica
+# Museo audiovisivo della resistenza
+###Fosdinovo (MS), 2000
 
 ### what is |
 Il museo audiovisivo della resistenza di Fosdinovo è dedicato al periodo della Resistenza italiana nella Lunigiana. Raccoglie la memoria orale e audiovisiva della guerra raccontando il tutto attraverso un percorso attorno ad un grande tavolo, posto al centro della stanza, su cui sono fruibili, da entrambi i suoi lati, diversi oggetti interattivi: degli pseudo-libri ognuno dei quali racconta una tematica diversa. Al centro del tavolo, in corrispondenza degli oggetti interattivi, sono posti degli schermi su cui sono proiettate interviste ai reali protagonisti della resistenza.

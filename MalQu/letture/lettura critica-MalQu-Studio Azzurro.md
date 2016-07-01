@@ -25,7 +25,7 @@ Il museo ha la forma dei musei laboratorio, dove l’utente scopre pian piano, e
 
 ## How it is made? (com’è stato fatto?)
 
-Attraversando sala dopo sala si incontrano delle installazioni multimediali, avvolte semolici video, altre volte proiezioni su plastici, o ancora un tavolo interattivo che racconta la storia del territorio attraverso delle mappe.
+Attraversando sala dopo sala si incontrano delle installazioni multimediali, avvolte semplici video, altre volte proiezioni su plastici, o ancora un tavolo interattivo che racconta la storia del territorio attraverso delle mappe.
 Le tecnologie utilizzate sono: 10 installazioni multimediali, 12 proiettori video, 11 sistemi di messa in onda, 10 impianti audio, 8 impianti sensistica, 4 monitor 42”plasma.
 
 ## What does it mean? (cosa significa?)

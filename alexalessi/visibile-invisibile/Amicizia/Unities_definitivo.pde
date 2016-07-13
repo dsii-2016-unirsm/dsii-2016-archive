@@ -97,7 +97,7 @@ void setup() {
          
    cp5 = new ControlP5(this);           //riga bottoni 3
    r3 = cp5.addRadioButton("radioButtonC")
-          .setPosition(110,80)
+          .setPosition(120,80)
          .setSize(50,40)
          .setColorForeground(color(120))
          .setColorActive(color(255))
@@ -513,5 +513,3 @@ void ZOOM(float slider) {
   println("slider event "+slider); 
   
 }
-
-
